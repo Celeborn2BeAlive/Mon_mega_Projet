@@ -1,3 +1,5 @@
 .toto {
   background-color: red;
+  border: solid 4px;
+  border-color: blue;
 }
